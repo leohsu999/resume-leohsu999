@@ -56,7 +56,7 @@ foreach($rows as $user){
 <p>資料新增：</p>
 <form action="insert_e-out.php" method="post">
 職場經歷<input type="text" name="class">
-工作經歷1<input type="text" name="c1">
+工作經歷<input type="text" name="c1">
 <input type="submit" value="確定新增">
 
 </form>
